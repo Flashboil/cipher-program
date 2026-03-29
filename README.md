@@ -10,7 +10,7 @@ I made this program in Rust using VS code as my workspace. It uses no libraries 
 
 # AI Disclosure
 
-After learning the basics of Rust from tutorials, I tried to implement my ideas based on my understanding of what I had learned. When I ran into a wall, I tried diagnosign the problem, but often couldn't figure out what was wrong with my code. It was usually syntax. I used ChatGPT to help diagnose problems with my code as well as explain certain concepts not covered in tutorials or the reading I did, expecially related to how things work in Rust as opposed to other languages. Often times small syntax errors caused errors and sinc eI was unfamiliar with all the rules, AI was useful in educating me on the little eccentricities.
+After learning the basics of Rust from tutorials, I tried to implement my ideas based on my understanding of what I had learned. When I ran into a wall, I tried diagnosing the problem, but often couldn't figure out what was wrong with my code. It was usually syntax. I used ChatGPT to help diagnose problems with my code as well as explain certain concepts not covered in tutorials or the reading I did, expecially related to how things work in Rust as opposed to other languages. Often times small syntax errors caused errors and sinc eI was unfamiliar with all the rules, AI was useful in educating me on the little eccentricities.
 
 # Useful Websites
 
